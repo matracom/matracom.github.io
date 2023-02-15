@@ -548,7 +548,7 @@ section {
   .navbar .getstarted:hover,
   .navbar .getstarted:focus:hover {
     color: #fff;
-    background: #dd0a35);
+    background: #dd0a35;
   }
 
   .navbar .dropdown ul,
